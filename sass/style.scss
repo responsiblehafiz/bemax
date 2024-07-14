@@ -694,7 +694,7 @@ span.flaticon-multiply i {
 /* project area style */
 
 .project-area {
-  background: url(../assets/image/project-bg.jpg);
+  background: url(../images/project-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -890,7 +890,7 @@ span.flaticon-multiply i {
 /* working-area style */
 
 .working-area {
-  background: url(../assets/image/working-image.jpg);
+  background: url(../images/working-image.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1017,7 +1017,7 @@ p.testi-paragraph {
   padding-bottom: 20px;
   &::before {
     position: absolute;
-    background: url(../assets/logo/tsti-bfi.png);
+    background: url(../images/logo/tsti-bfi.png);
     background-repeat: no-repeat;
     content: "";
     height: 60px;
@@ -1066,8 +1066,8 @@ p.testi-paragraph {
   position: absolute;
   top: -70px;
   left: 210px;
-  transition: .3s;
-  &:hover{
+  transition: 0.3s;
+  &:hover {
     background: #171a21;
     color: #fff;
   }
@@ -1099,7 +1099,7 @@ p.testi-paragraph {
   position: absolute;
   top: -60px;
   left: 170px;
-  &:hover{
+  &:hover {
     background: #171a21;
     color: #fff;
   }
@@ -1201,7 +1201,7 @@ p.testi-paragraph {
       font-family: "Lato", sans-serif;
       text-decoration: none;
       position: relative;
-      &:hover{
+      &:hover {
         color: #fff;
       }
       &::before {
